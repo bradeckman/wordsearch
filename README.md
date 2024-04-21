@@ -14,7 +14,7 @@ A simple wordsearch solver. Exercise 5 of Intro2CSE @ The Hebrew University of J
 3. Create an output file - an empty txt file to which the program will write the output to.
 4. cd into the root directory of the project. Execute:
 
-   `python wordsearch.py utils/words.txt utils/matrix.txt utils/output.txt directions`
+   `python wordsearch.py [path-to-words-file] [path-to-matrix-file] [path-to-output-file] directions`
 
    Where `directions` is any string formed from the letter 'urdlwxyz' representing 8 directions to search in.
 5. Enjoy!
