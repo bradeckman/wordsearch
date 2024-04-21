@@ -16,5 +16,5 @@ A simple wordsearch solver. Exercise 5 of Intro2CSE @ The Hebrew University of J
 
    `python wordsearch.py [path-to-words-file] [path-to-matrix-file] [path-to-output-file] directions`
 
-   Where `directions` is any string formed from the letter 'urdlwxyz' representing 8 directions to search in.
+   Where `directions` is any string formed from the letters 'urdlwxyz' representing 8 directions to search in.
 5. Enjoy!
